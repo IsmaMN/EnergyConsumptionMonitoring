@@ -1,0 +1,12 @@
+serial
+serial
+time
+pymodbus
+matplotlib
+numpy
+pymodbus
+AWSIoTPythonSDK
+RPi.GPIO
+boto3
+datetime
+decimal
